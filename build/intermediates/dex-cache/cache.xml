@@ -1,2 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aaf82d9571c6f3ddc2f4ea081ebf440b4f3fe09b">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c699032f5ffa152560633b4b7f9c6e9a22f8c140/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_e25c69b93ba27dcacb5733b811974c2361f07901/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d35b29b734b9b55071a63cbefb41c5602f2ca165/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_b55e12a188fb47933e5209f7683b4c0571e83203/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_bb01d37366be3931d21df236d1db8005a04e47eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_7915a315964672694c6b32d25a9cdc92978d770c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_def8f3e1c3f0fe051834f53dc36caa41e6b39884/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_9f98bfbd53405c764f6eb1cdeaddeb518f632fb1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="81e1bd52a921e4cbf1d78e4036d9b0ac88a8cc6a">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b27176e4fdcf8217ea9d215245f5a2bcd14f1885/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1f351d449655e766881361f01021823f0d7fcc11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_e222dd1674eff492db83aa6af703fb0025e96304/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_e07cfcb58d2805cccbfa5fcc5263e9df4864d93b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_39df14b84e6ad0d97739724fda40a63ab02cab5d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_73793e13268cee477eb19610195ca7f0f99d50c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/digicorp/AndroidStudioProjects/demoretrofit/testRetrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_73a58646d150618a91f5dffef9abff0b370e585d/classes.dex" />
+    </item>
+
+</items>
