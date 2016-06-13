@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent"
+    android:layout_width="wrap_content">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="One"/>
+    <item
+        android:id="@+id/action_settings34"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="two"/>
+    <item
+        android:id="@+id/action_settings3"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="three"/>
+</menu>
+
